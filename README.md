@@ -1,2 +1,2 @@
 # sp-docker-compose
-a docker-compose playground
+a docker-compose playground.
